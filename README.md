@@ -1,8 +1,6 @@
 # insta_bot
 
 ## Description
-The bot downloads videos from IGTV of a specified user
+The bots downloads videos and pictures
 
-### TODO
-* scroll down 
-* Include limit on number of videos download
+
