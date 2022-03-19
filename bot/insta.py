@@ -74,6 +74,13 @@ class RobotCore(Protector):
             body.send_keys(Keys.PAGE_DOWN)
             if count == limit:
                 condition = False
+#
+# def wrapped() -> None:
+#     ...
+#
+#
+# if __name__ == '__main__':
+#     wrapped()
 
     @property
     def quit(self):
@@ -84,10 +91,3 @@ class RobotCore(Protector):
 
 
 
-#
-# def wrapped() -> None:
-#     ...
-#
-#
-# if __name__ == '__main__':
-#     wrapped()
